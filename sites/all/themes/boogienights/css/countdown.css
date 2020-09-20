@@ -1,0 +1,154 @@
+ul#time-left {
+	list-style: none;
+	margin: 4px 0;
+	padding: 0;
+	display: inline;
+	text-align: center;
+}
+ul#time-left li {
+	display: inline-block;
+}
+ul#time-left li span {
+	font-size: 100%;
+	font-weight: normal;
+	line-height: .9em;
+}
+ul#time-left li.seperator {
+	font-size: 100%;
+	line-height: .9em;
+	vertical-align: top;
+}
+ul#time-left li p {
+	color: #a7abb1;
+	font-size: 90%;
+}
+.studio {
+     font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0;
+    font-size: 76%;
+    text-transform: uppercase;
+}
+
+ul#countdown {
+list-style: none;
+margin: 0;
+padding: 0;
+display: block;
+text-align: center;
+}
+ul#countdown li {
+	display: inline-block;
+}
+ul#countdown li span {
+font-size: 20px;
+font-weight: 300;
+line-height: 20px;
+}
+ul#countdown li.seperator {
+font-size: 20px;
+line-height: 25px;
+vertical-align: top;
+}
+ul#countdown li p {
+color: #a7abb1;
+font-size: 10px;
+margin: -2px 0 0 0;
+}
+#countdown-header{
+font-size: 10px;
+text-align: center;
+margin: 10px 0 4px 0;
+text-transform: uppercase;
+}
+
+#countdown-header a{
+font-weight: 700;
+text-decoration:underline;
+color:#678FA8;
+}
+#countdown-header a:hover{
+/* text-decoration:underline; */
+color:#A89477;
+}
+
+.countdown-timer{margin-bottom: -36px;}
+
+@media only screen and (min-width: 767px){
+ul#time-left {
+	list-style: none;
+	margin: 4px 0;
+	padding: 0;
+	display: inline;
+	text-align: center;
+}
+ul#time-left li {
+	display: inline-block;
+}
+ul#time-left li span {
+	font-size: 100%;
+	font-weight: normal;
+	line-height: .9em;
+}
+ul#time-left li.seperator {
+	font-size: 100%;
+	line-height: .9em;
+	vertical-align: top;
+}
+ul#time-left li p {
+	color: #a7abb1;
+	font-size: 90%;
+}
+.studio {
+     font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0;
+    font-size: 76%;
+    text-transform: uppercase;
+}
+
+ul#countdown {
+list-style: none;
+margin: 0;
+padding: 0;
+display: block;
+text-align: center;
+}
+ul#countdown li {
+	display: inline-block;
+}
+ul#countdown li span {
+font-size: 30px;
+font-weight: 300;
+line-height: 30px;
+}
+ul#countdown li.seperator {
+font-size: 30px;
+line-height: 25px;
+vertical-align: top;
+}
+ul#countdown li p {
+color: #a7abb1;
+font-size: 10px;
+margin-top: -2px;
+}
+#countdown-header{
+font-size: 14px;
+text-align: center;
+margin: 10px 0 4px 0;
+text-transform: uppercase;
+}
+
+#countdown-header a{
+font-weight: 700;
+text-decoration:underline;
+color:#678FA8;
+}
+#countdown-header a:hover{
+/* text-decoration:underline; */
+color:#A89477;
+}
+
+.countdown-timer{margin-bottom: -36px;}
+}
+}

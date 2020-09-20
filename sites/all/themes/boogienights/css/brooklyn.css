@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'icons';
+  src: url("//cdn.shopify.com/s/files/1/1342/1229/t/2/assets/icons.eot?693858360617206544");
+  src: url("//cdn.shopify.com/s/files/1/1342/1229/t/2/assets/icons.eot?693858360617206544#iefix") format("embedded-opentype"), url("//cdn.shopify.com/s/files/1/1342/1229/t/2/assets/icons.woff?693858360617206544") format("woff"), url("//cdn.shopify.com/s/files/1/1342/1229/t/2/assets/icons.ttf?693858360617206544") format("truetype"), url("//cdn.shopify.com/s/files/1/1342/1229/t/2/assets/icons.svg?693858360617206544#timber-icons") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+body {
+  color: #444444;
+  font-family: "Montserrat", "HelveticaNeue", "Helvetica Neue", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1; }
+
+h1, .h1 {
+  font-size: 1.875em; }
+
+h2, .h2 {
+  font-family: "Montserrat", "HelveticaNeue", "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-size: 1.6875em; }
+
+h3, .h3 {
+  font-family: "Montserrat", "HelveticaNeue", "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-size: 1.125em; }
+
+h4, .h4 {
+  font-family: "Montserrat", "HelveticaNeue", "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-size: 1em; }
+
+h5, .h5, h6, .h6 {
+  font-size: 0.9375em; }
+
+h2.frontslug {
+  font-size: 150%; }
+
+#block-views-image-wall-block .galleryItem-sm {
+  margin: 0 10px 14px 0;
+  padding: 4px 4px 6px;
+  width: 86px; }
